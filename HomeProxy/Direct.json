@@ -3,14 +3,13 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
         "hfsvr.hf.com",
+         "hfdc02.hf.com",
         "wxapp.tc.qq.com"
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
         ".hf.com",
         ".wxapp.tc.qq.com"
       ]
