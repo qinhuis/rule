@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "hfdat.hf.com",
+        "hfsvr.hf.com"
+      ],
+      "domain_suffix": [
+        "hf.com"
+      ]
+    }
+  ]
+}
