@@ -3,15 +3,17 @@
   "rules": [
     {
       "domain": [
-        "hfsvr.hf.com",
-         "hfdc02.hf.com",
+        "ds.hf-bopp.com",
+         "i.hf-bopp.com",
         "wxapp.tc.qq.com"
       ]
     },
     {
       "domain_suffix": [
-        ".hf.com",
-        ".right.com.cn",
+        ".hf-bopp.com",
+        ".bmdint.com.cn",
+        ".bmdint.cn",
+        ".fancysu.com",
         ".wxapp.tc.qq.com"
       ]
     },
@@ -19,12 +21,6 @@
       "domain_keyword": [
         "cherrytv",
         "cherr"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "10.0.0.0/24",
-        "10.1.4.0/24"
       ]
     }
   ]
