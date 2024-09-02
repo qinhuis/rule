@@ -3,24 +3,11 @@
   "rules": [
     {
       "domain": [
-        "ds.hf-bopp.com",
-         "i.hf-bopp.com",
-        "wxapp.tc.qq.com"
-      ]
-    },
-    {
+        "hfdat.hf.com",
+        "hfsvr.hf.com"
+      ],
       "domain_suffix": [
-        ".hf-bopp.com",
-        ".bmdint.com.cn",
-        ".bmdint.cn",
-        ".fancysu.com",
-        ".wxapp.tc.qq.com"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "cherrytv",
-        "cherr"
+        ".hf-bopp.com"
       ]
     }
   ]
