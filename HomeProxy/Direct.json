@@ -3,11 +3,16 @@
   "rules": [
     {
       "domain": [
-        "hfdat.hf.com",
-        "hfsvr.hf.com"
+        "i.hf-bopp.com",
+         "cctv.hf-bopp.com",
+        "ds.hf-bopp.com"
       ],
       "domain_suffix": [
-        ".hf-bopp.com"
+        "hf-bopp.com",
+        "bmdint.com",
+        "bmdint.com.cn",
+        "bmdint.cn",
+        "fancysu.com"
       ]
     }
   ]
